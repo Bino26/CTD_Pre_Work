@@ -27,7 +27,7 @@ Star Wars API (https://swapi.dev/) if the API is down use: https://www.swapi.tec
 
 ## Demo
 
-Insert gif or link to demo
+https://stars-wars-api.netlify.app/
 
 
 ## Run Locally
